@@ -1,1 +1,1 @@
-# My Tic-Tac-To Game :smiley:
+# My Tic-Tac-Toe Game
